@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 2021"
+image: "product2021.jpg"
+categories: "category1"
+---
+Product 2021
