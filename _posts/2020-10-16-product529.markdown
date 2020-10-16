@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 529"
+image: "product529.jpg"
+categories: "category1"
+---
+Product 529

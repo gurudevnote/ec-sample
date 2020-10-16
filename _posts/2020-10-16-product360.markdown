@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 360"
+image: "product360.jpg"
+categories: "category1"
+---
+Product 360
