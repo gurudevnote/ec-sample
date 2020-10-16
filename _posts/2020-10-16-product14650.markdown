@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 14650"
+image: "product14650.jpg"
+categories: "category1"
+---
+Product 14650

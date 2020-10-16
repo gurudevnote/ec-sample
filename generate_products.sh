@@ -9,6 +9,6 @@ categories: "category1"
 Product {ID}
 EOF`
 
-for (( i=1; i<=10000; ((i+=1)) ));
+for (( i=1; i<=30000; ((i+=1)) ));
  do echo "$PRODUCT_TEMPLATE" | sed "s/{ID}/$i/g" > "./_posts/2020-10-16-product$i.markdown";
 done;

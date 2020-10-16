@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 12689"
+image: "product12689.jpg"
+categories: "category1"
+---
+Product 12689

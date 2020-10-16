@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 10990"
+image: "product10990.jpg"
+categories: "category1"
+---
+Product 10990

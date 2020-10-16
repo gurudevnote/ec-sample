@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 27001"
+image: "product27001.jpg"
+categories: "category1"
+---
+Product 27001

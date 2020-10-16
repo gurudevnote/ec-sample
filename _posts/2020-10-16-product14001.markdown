@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Product 14001"
+image: "product14001.jpg"
+categories: "category1"
+---
+Product 14001
